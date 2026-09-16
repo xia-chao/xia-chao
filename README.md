@@ -1,6 +1,6 @@
 ## My Tech Belief: JavaScript / TypeScript
 
-As AI raises the bar for performance and concurrency, more and more high-quality JavaScript / TypeScript projects are being rewritten in Rust or Go.
+With the increasing demand for performance and concurrency, more and more high-quality JavaScript / TypeScript projects are being rewritten in Rust or Go.
 
 To me, that feels like a betrayal.
 
