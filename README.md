@@ -1,36 +1,11 @@
-# Hello, I'm Xia Chao
+## My Tech Belief: JavaScript / TypeScript
 
-I am deeply passionate about the JavaScript and TypeScript ecosystem, and I continuously learn, practice, and explore within it.
+As AI advances, more and more excellent JavaScript / TypeScript projects are being rewritten in Go or Rust for better performance and concurrency.
 
-My interests include frontend and backend development, Node.js, Bun, CLI tools, software engineering, type systems, performance optimization, and developer experience.
+To me, that feels like a betrayal.
 
-I enjoy studying large-scale projects, exploring architectural boundaries, and building practical tools that make development more reliable and efficient.
+My faith and commitment belong to the JavaScript / TypeScript ecosystem and community. Learning other languages is not difficult for me, but I still choose to invest my energy in JS/TS: squeezing out performance, exploring concurrency, and pushing the ecosystem further.
 
-Through continuous learning, hands-on practice, and open-source contributions, I hope to contribute meaningful ideas, tools, and improvements to the JavaScript and TypeScript ecosystem.
+Yes, JavaScript engines are implemented in C++. As JS/TS developers, we may not be able to directly contribute to their core. But we are not powerless: through feedback, proposals, benchmarks, and practice, we can still make our voices and contributions count.
 
-## Areas of Interest
-
-- JavaScript / TypeScript
-- Node.js / Bun
-- Frontend and backend development
-- CLI and developer tools
-- Type systems and engineering practices
-- Performance optimization
-- Cross-platform development
-- Open-source research and contribution
-
-## My Principle
-
-Keep learning. Keep practicing. Keep creating. Keep contributing.
-
-## Naming Origin
-
-In systems programming, **“unsafe”** means going beyond high-level abstractions and interacting more directly with memory, native APIs, and hardware.
-
-The name **javascript-unsafe** reflects my expectation that JavaScript will continue breaking through runtime boundaries and gain more system-level capabilities.
-
-As Atwood's Law states:
-
-> “Any application that can be written in JavaScript will eventually be written in JavaScript.”
-
-I believe JavaScript will keep expanding beyond traditional scripting and move closer to systems programming.
+I stay not because I cannot leave, but because I believe JavaScript / TypeScript is still worth pushing further.
