@@ -1,4 +1,4 @@
-## My Tech Belief: JavaScript / TypeScript
+## My Tech Belief: JavaScript / TypeScript,C++
 
 With the increasing demand for performance and concurrency, more and more high-quality JavaScript / TypeScript projects are being rewritten in Rust or Go.
 
