@@ -1,1 +1,1 @@
-# My Tech Belief: JavaScript / TypeScript, Rust
+# My Tech Belief: C++, Rust
